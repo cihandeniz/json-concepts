@@ -19,7 +19,7 @@ jobs:
         run: npm run build
       - name: Copy dist to docs
         run: |
-          rm -rdv ./docs
+          rm -rdvf ./docs
           mv ./.vuepress/dist ./docs
       - name: Commit and push docs
         run: |
