@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Render text using a template with any json | json concepts</title>
+    <meta name="generator" content="VuePress 1.8.2">
+    
+    <meta name="description" content="a meta-schema specification in JSON format">
+    <meta name="theme-color" content="#3eaf7c">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    
+    <link rel="preload" href="/json-concepts/assets/css/0.styles.a0c46cdc.css" as="style"><link rel="preload" href="/json-concepts/assets/js/app.33e1ce06.js" as="script"><link rel="preload" href="/json-concepts/assets/js/2.c1010ebf.js" as="script"><link rel="preload" href="/json-concepts/assets/js/74.280ef8c4.js" as="script"><link rel="prefetch" href="/json-concepts/assets/js/10.e5ac5181.js"><link rel="prefetch" href="/json-concepts/assets/js/11.1d322491.js"><link rel="prefetch" href="/json-concepts/assets/js/12.75ccb956.js"><link rel="prefetch" href="/json-concepts/assets/js/13.080d87b9.js"><link rel="prefetch" href="/json-concepts/assets/js/14.7c477f69.js"><link rel="prefetch" href="/json-concepts/assets/js/15.5ec2f622.js"><link rel="prefetch" href="/json-concepts/assets/js/16.5f5d682b.js"><link rel="prefetch" href="/json-concepts/assets/js/17.16bddbe3.js"><link rel="prefetch" href="/json-concepts/assets/js/18.a7d932ee.js"><link rel="prefetch" href="/json-concepts/assets/js/19.5ba6c380.js"><link rel="prefetch" href="/json-concepts/assets/js/20.033c17b1.js"><link rel="prefetch" href="/json-concepts/assets/js/21.299f0699.js"><link rel="prefetch" href="/json-concepts/assets/js/22.c957269a.js"><link rel="prefetch" href="/json-concepts/assets/js/23.30681e44.js"><link rel="prefetch" href="/json-concepts/assets/js/24.2785462e.js"><link rel="prefetch" href="/json-concepts/assets/js/25.b2cc03e0.js"><link rel="prefetch" href="/json-concepts/assets/js/26.13881f15.js"><link rel="prefetch" href="/json-concepts/assets/js/27.a171079d.js"><link rel="prefetch" href="/json-concepts/assets/js/28.5be82da2.js"><link rel="prefetch" href="/json-concepts/assets/js/29.601b30ff.js"><link rel="prefetch" href="/json-concepts/assets/js/3.15fa0095.js"><link rel="prefetch" href="/json-concepts/assets/js/30.4eaea938.js"><link rel="prefetch" href="/json-concepts/assets/js/31.13e68b9c.js"><link rel="prefetch" href="/json-concepts/assets/js/32.cd5bce10.js"><link rel="prefetch" href="/json-concepts/assets/js/33.b73b0197.js"><link rel="prefetch" href="/json-concepts/assets/js/34.66c49fa1.js"><link rel="prefetch" href="/json-concepts/assets/js/35.0b3ed4cc.js"><link rel="prefetch" href="/json-concepts/assets/js/36.bfd07e83.js"><link rel="prefetch" href="/json-concepts/assets/js/37.46b45dac.js"><link rel="prefetch" href="/json-concepts/assets/js/38.b71be272.js"><link rel="prefetch" href="/json-concepts/assets/js/39.5c69db7a.js"><link rel="prefetch" href="/json-concepts/assets/js/4.e7c996f5.js"><link rel="prefetch" href="/json-concepts/assets/js/40.fdfb0b58.js"><link rel="prefetch" href="/json-concepts/assets/js/41.d7c35bc6.js"><link rel="prefetch" href="/json-concepts/assets/js/42.2d4f9f1f.js"><link rel="prefetch" href="/json-concepts/assets/js/43.1461352b.js"><link rel="prefetch" href="/json-concepts/assets/js/44.4a1d836e.js"><link rel="prefetch" href="/json-concepts/assets/js/45.70581f35.js"><link rel="prefetch" href="/json-concepts/assets/js/46.5fdcf612.js"><link rel="prefetch" href="/json-concepts/assets/js/47.160e2207.js"><link rel="prefetch" href="/json-concepts/assets/js/48.9545d52a.js"><link rel="prefetch" href="/json-concepts/assets/js/49.46d20c45.js"><link rel="prefetch" href="/json-concepts/assets/js/5.6eff8140.js"><link rel="prefetch" href="/json-concepts/assets/js/50.f44d3dc0.js"><link rel="prefetch" href="/json-concepts/assets/js/51.05fc2da1.js"><link rel="prefetch" href="/json-concepts/assets/js/52.5d93283a.js"><link rel="prefetch" href="/json-concepts/assets/js/53.95c65611.js"><link rel="prefetch" href="/json-concepts/assets/js/54.40fd3426.js"><link rel="prefetch" href="/json-concepts/assets/js/55.254efb75.js"><link rel="prefetch" href="/json-concepts/assets/js/56.56c59f23.js"><link rel="prefetch" href="/json-concepts/assets/js/57.12a3cfdd.js"><link rel="prefetch" href="/json-concepts/assets/js/58.d45e0921.js"><link rel="prefetch" href="/json-concepts/assets/js/59.4e6b487f.js"><link rel="prefetch" href="/json-concepts/assets/js/6.17d5dd20.js"><link rel="prefetch" href="/json-concepts/assets/js/60.b3213562.js"><link rel="prefetch" href="/json-concepts/assets/js/61.ebf9346c.js"><link rel="prefetch" href="/json-concepts/assets/js/62.c4e9a65b.js"><link rel="prefetch" href="/json-concepts/assets/js/63.96fbd89a.js"><link rel="prefetch" href="/json-concepts/assets/js/64.fd178b06.js"><link rel="prefetch" href="/json-concepts/assets/js/65.3de6e36b.js"><link rel="prefetch" href="/json-concepts/assets/js/66.7dca51f0.js"><link rel="prefetch" href="/json-concepts/assets/js/67.d6cd8c76.js"><link rel="prefetch" href="/json-concepts/assets/js/68.d468d1ec.js"><link rel="prefetch" href="/json-concepts/assets/js/69.88beab4f.js"><link rel="prefetch" href="/json-concepts/assets/js/7.8bed8a77.js"><link rel="prefetch" href="/json-concepts/assets/js/70.77795e28.js"><link rel="prefetch" href="/json-concepts/assets/js/71.6e866097.js"><link rel="prefetch" href="/json-concepts/assets/js/72.83773dda.js"><link rel="prefetch" href="/json-concepts/assets/js/73.48796bee.js"><link rel="prefetch" href="/json-concepts/assets/js/75.fcc6074f.js"><link rel="prefetch" href="/json-concepts/assets/js/76.e471b0af.js"><link rel="prefetch" href="/json-concepts/assets/js/8.88140b8d.js"><link rel="prefetch" href="/json-concepts/assets/js/9.e72afd7e.js">
+    <link rel="stylesheet" href="/json-concepts/assets/css/0.styles.a0c46cdc.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div> <a href="/json-concepts/" class="home-link router-link-active"><!----> <span class="site-name">json concepts</span></a> <div class="links"><div class="search-box"><input aria-label="Search" autocomplete="off" spellcheck="false" value=""> <!----></div> <nav class="nav-links can-hide"><div class="nav-item"><a href="/json-concepts/usecases/" class="nav-link router-link-active">
+  Use Cases
+</a></div><div class="nav-item"><a href="/json-concepts/spec/" class="nav-link">
+  Specification
+</a></div> <!----></nav></div></header> <div class="sidebar-mask"></div> <aside class="sidebar"><nav class="nav-links"><div class="nav-item"><a href="/json-concepts/usecases/" class="nav-link router-link-active">
+  Use Cases
+</a></div><div class="nav-item"><a href="/json-concepts/spec/" class="nav-link">
+  Specification
+</a></div> <!----></nav>  <ul class="sidebar-links"><li><section class="sidebar-group depth-0"><p class="sidebar-heading open"><span>Use Cases</span> <!----></p> <ul class="sidebar-links sidebar-group-items"><li><a href="/json-concepts/usecases/01-configuration-files.html" class="sidebar-link">Configuration Files</a></li></ul></section></li></ul> </aside> <main class="page"> <div class="theme-default-content content__default"><h1 id="render-text-using-a-template-with-any-json"><a href="#render-text-using-a-template-with-any-json" class="header-anchor">#</a> Render text using a template with any json</h1> <h2 id="case"><a href="#case" class="header-anchor">#</a> Case</h2> <p>There is a json and a template, but they don't match.</p> <h2 id="solution"><a href="#solution" class="header-anchor">#</a> Solution</h2> <ul><li>Create concepts for json</li> <li>Create concepts for template</li> <li>Create a transformation from concepts of json to concepts of template</li> <li>Transform existing json to a json that matches template</li> <li>Render template using new json</li></ul> <h2 id="class-diagram"><a href="#class-diagram" class="header-anchor">#</a> Class Diagram</h2> <p>Below diagram allows;</p> <ul><li>Verifying schemas against concepts</li> <li>Transforming a schema to another schema</li> <li>Generate code from templates and schemas</li></ul> <div class="language-plantuml extra-class"><pre class="language-text"><code>
+class Concepts {
+    + loadSchema(schema: JSON, path: String): Schema
+    + validateSchema(schema: JSON, path: String): boolean
+    + {static} load(concepts: JSON, path: String): Concepts
+}
+
+class Schema {
+    - concepts: Concepts
+    + getJSON() : JSON
+    + {static} load(schema: JSON, path: String): Schema
+}
+
+class Transformation {
+    - source: Concepts
+    - target: Concepts
+    + transform(schema: Schema): Schema
+    + transform(schema: JSON): JSON
+}
+
+class Template {
+    + render(schema: Schema): String
+    + render(schema: Schema, transformation: Transformation): String
+}
+
+Transformation *-- Concepts : has 2 &gt;
+Schema *-- Concepts : has &gt; 
+Transformation .. Schema : transforms &gt;
+Schema .. Template : renders &lt;
+</code></pre></div><h2 id="pseudo-code-of-facade-methods"><a href="#pseudo-code-of-facade-methods" class="header-anchor">#</a> Pseudo Code of Facade Methods</h2> <div class="language-javascript extra-class"><pre class="language-javascript"><code>Concepts<span class="token punctuation">.</span><span class="token function-variable function">createSchema</span> <span class="token operator">=</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">schema</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">if</span><span class="token punctuation">(</span><span class="token operator">!</span><span class="token function">validateSchema</span><span class="token punctuation">(</span>schema<span class="token punctuation">)</span><span class="token punctuation">)</span>
+        <span class="token keyword">throw</span> error<span class="token punctuation">;</span>    
+    
+    <span class="token keyword">return</span> <span class="token keyword">this</span> <span class="token operator">+</span> schema<span class="token punctuation">;</span> <span class="token comment">// =&gt; implementation</span>
+<span class="token punctuation">}</span>
+
+Transformation<span class="token punctuation">.</span><span class="token function-variable function">transform</span> <span class="token operator">=</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">source<span class="token operator">:</span> Schema</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">return</span> <span class="token keyword">this</span><span class="token punctuation">.</span>target<span class="token punctuation">.</span><span class="token function">createSchema</span><span class="token punctuation">(</span>
+        <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">transform</span><span class="token punctuation">(</span>
+            source<span class="token punctuation">.</span><span class="token function">getJSON</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+        <span class="token punctuation">)</span>
+    <span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+
+Transformation<span class="token punctuation">.</span><span class="token function-variable function">transform</span> <span class="token operator">=</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">source<span class="token operator">:</span> <span class="token constant">JSON</span></span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">return</span> <span class="token keyword">this</span> <span class="token operator">+</span> <span class="token keyword">this</span><span class="token punctuation">.</span>target <span class="token operator">+</span> source<span class="token punctuation">;</span> <span class="token comment">// =&gt; implementation</span>
+<span class="token punctuation">}</span>
+
+Template<span class="token punctuation">.</span><span class="token function-variable function">render</span> <span class="token operator">=</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">schema</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">return</span> <span class="token keyword">this</span> <span class="token operator">+</span> schema<span class="token punctuation">;</span> <span class="token comment">// =&gt; implementation</span>
+<span class="token punctuation">}</span>
+
+Template<span class="token punctuation">.</span><span class="token function-variable function">render</span> <span class="token operator">=</span> <span class="token keyword">function</span><span class="token punctuation">(</span><span class="token parameter">schema<span class="token punctuation">,</span> transformation</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
+    <span class="token keyword">return</span> <span class="token keyword">this</span><span class="token punctuation">.</span><span class="token function">render</span><span class="token punctuation">(</span>
+        transformation<span class="token punctuation">.</span><span class="token function">transform</span><span class="token punctuation">(</span>schema<span class="token punctuation">)</span>
+    <span class="token punctuation">)</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre></div></div> <footer class="page-edit"><!----> <!----></footer> <!----> </main></div><div class="global-ui"></div></div>
+    <script src="/json-concepts/assets/js/app.33e1ce06.js" defer></script><script src="/json-concepts/assets/js/2.c1010ebf.js" defer></script><script src="/json-concepts/assets/js/74.280ef8c4.js" defer></script>
+  </body>
+</html>
