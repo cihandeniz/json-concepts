@@ -74,7 +74,14 @@ definition validates a schema like this one;
 To understand how you can make use of **json concepts**, have a look at its
 [use cases].
 
-Or you can directly dive into its [specification].
+Or you can directly dive into the [specs].
 
-[use cases]: usecases/README.md
-[specification]: spec/README.md
+## Contribution
+
+Thanks for your interest in **json concepts**. If you want to ask a question or
+make a contribution, just go to the [github repository]. See you
+there :wave:
+
+[use cases]: use-cases/README.md
+[specs]: specs/README.md
+[github repository]: https://github.com/codingatwill/json-concepts
