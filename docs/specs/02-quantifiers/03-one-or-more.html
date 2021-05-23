@@ -2,7 +2,7 @@
 <html lang="en-US">
   <head>
     <meta name="theme-color" content="#3eaf7c"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><title>One or More | json concepts</title><meta name="description" content="a meta-schema specification in JSON format"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="generator" content="VuePress 2.0.0-beta.14">
-    <link rel="preload" href="/json-concepts/assets/js/runtime~app.747b226e.js" as="script"><link rel="preload" href="/json-concepts/assets/css/styles.aa5f8cd2.css" as="style"><link rel="preload" href="/json-concepts/assets/js/935.60d6e878.js" as="script"><link rel="preload" href="/json-concepts/assets/js/app.1fca3ffe.js" as="script">
+    <link rel="preload" href="/json-concepts/assets/js/runtime~app.5581f7cb.js" as="script"><link rel="preload" href="/json-concepts/assets/css/styles.aa5f8cd2.css" as="style"><link rel="preload" href="/json-concepts/assets/js/935.60d6e878.js" as="script"><link rel="preload" href="/json-concepts/assets/js/app.3e15a6b2.js" as="script">
     <link rel="stylesheet" href="/json-concepts/assets/css/styles.aa5f8cd2.css">
   </head>
   <body>
@@ -45,7 +45,7 @@
 <span class="token punctuation">}</span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br></div></div><h2 id="schema-shadow"><a class="header-anchor" href="#schema-shadow">#</a> Schema Shadow</h2><p>When more than one concepts are allowed in a schema, schema shadow stores them in an array;</p><p><code>SCHEMA: greeting.service.json</code></p><div class="language-json ext-json line-numbers-mode"><pre class="language-json"><code><span class="token punctuation">{</span>
     <span class="token property">&quot;sayHello&quot;</span><span class="token operator">:</span> <span class="token punctuation">{</span>
-        <span class="token property">&quot;name&quot;</span><span class="token operator">:</span> <span class="token string">&quot;string&quot;</span><span class="token punctuation">,</span>
+        <span class="token property">&quot;name&quot;</span><span class="token operator">:</span> <span class="token string">&quot;string&quot;</span>
     <span class="token punctuation">}</span><span class="token punctuation">,</span>
     <span class="token property">&quot;sayGoodbye&quot;</span><span class="token operator">:</span> <span class="token punctuation">{</span> <span class="token punctuation">}</span>
 <span class="token punctuation">}</span>
@@ -66,7 +66,7 @@
 <span class="token punctuation">}</span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br><span class="line-number">12</span><br><span class="line-number">13</span><br><span class="line-number">14</span><br><span class="line-number">15</span><br></div></div><p>Even if there is only one <code>$service</code>, schema shadow still has it in an array;</p><p><code>SCHEMA: greeting-2.service.json</code></p><div class="language-json ext-json line-numbers-mode"><pre class="language-json"><code><span class="token punctuation">{</span>
     <span class="token property">&quot;sayHello&quot;</span><span class="token operator">:</span> <span class="token punctuation">{</span>
-        <span class="token property">&quot;name&quot;</span><span class="token operator">:</span> <span class="token string">&quot;string&quot;</span><span class="token punctuation">,</span>
+        <span class="token property">&quot;name&quot;</span><span class="token operator">:</span> <span class="token string">&quot;string&quot;</span>
     <span class="token punctuation">}</span>
 <span class="token punctuation">}</span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br></div></div><p><code>SCHEMA SHADOW</code></p><div class="language-json ext-json line-numbers-mode"><pre class="language-json"><code><span class="token punctuation">{</span>
@@ -81,6 +81,6 @@
     <span class="token punctuation">]</span>
 <span class="token punctuation">}</span>
 </code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br><span class="line-number">7</span><br><span class="line-number">8</span><br><span class="line-number">9</span><br><span class="line-number">10</span><br><span class="line-number">11</span><br></div></div><!--]--></div><footer class="page-meta"><!----><!----><!----></footer><nav class="page-nav"><p class="inner"><span class="prev"> ← <a href="/json-concepts/specs/02-quantifiers/02-zero-or-one.html" class="nav-link" aria-label="Zero or One"><!--[--><!--]--> Zero or One <!--[--><!--]--></a></span><span class="next"><a href="/json-concepts/specs/02-quantifiers/04-zero-or-more.html" class="nav-link" aria-label="Zero or More"><!--[--><!--]--> Zero or More <!--[--><!--]--></a> → </span></p></nav><!--[--><!--]--></main></div><!----><!--]--></div>
-    <script src="/json-concepts/assets/js/runtime~app.747b226e.js" defer></script><script src="/json-concepts/assets/js/935.60d6e878.js" defer></script><script src="/json-concepts/assets/js/app.1fca3ffe.js" defer></script>
+    <script src="/json-concepts/assets/js/runtime~app.5581f7cb.js" defer></script><script src="/json-concepts/assets/js/935.60d6e878.js" defer></script><script src="/json-concepts/assets/js/app.3e15a6b2.js" defer></script>
   </body>
 </html>
