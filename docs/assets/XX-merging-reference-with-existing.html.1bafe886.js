@@ -1,0 +1,1 @@
+const e={key:"v-5d81e8f2",path:"/proposals/XX-merging-reference-with-existing.html",title:"Merging Reference with Existing",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"proposals/XX-merging-reference-with-existing.md"};export{e as data};

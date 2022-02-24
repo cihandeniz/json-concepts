@@ -1,0 +1,1 @@
+const e={key:"v-3cdf60fc",path:"/specs/04-custom-types/03-enum-validator.html",title:"Enum Validator",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Short-Hand Usage",slug:"short-hand-usage",children:[]},{level:2,title:"Enum of any Type",slug:"enum-of-any-type",children:[]}],filePathRelative:"specs/04-custom-types/03-enum-validator.md"};export{e as data};

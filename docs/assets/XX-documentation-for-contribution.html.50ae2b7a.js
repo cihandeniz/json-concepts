@@ -1,0 +1,1 @@
+const t={key:"v-5b1bd2a8",path:"/proposals/XX-documentation-for-contribution.html",title:"Documentation for Contribution",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"proposals/XX-documentation-for-contribution.md"};export{t as data};

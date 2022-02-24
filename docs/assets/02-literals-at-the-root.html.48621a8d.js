@@ -1,0 +1,1 @@
+const t={key:"v-35e07113",path:"/specs/06-literals/02-literals-at-the-root.html",title:"Literals At The Root",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"specs/06-literals/02-literals-at-the-root.md"};export{t as data};

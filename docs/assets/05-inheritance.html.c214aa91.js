@@ -1,0 +1,1 @@
+const e={key:"v-3899f704",path:"/specs/04-custom-types/05-inheritance.html",title:"Inheritance",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Circular Dependency",slug:"circular-dependency",children:[]}],filePathRelative:"specs/04-custom-types/05-inheritance.md"};export{e as data};

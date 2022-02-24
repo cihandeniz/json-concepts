@@ -1,0 +1,1 @@
+const e={key:"v-17377673",path:"/specs/06-literals/05-nested-object-arrays.html",title:"Nested Object Arrays",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"specs/06-literals/05-nested-object-arrays.md"};export{e as data};

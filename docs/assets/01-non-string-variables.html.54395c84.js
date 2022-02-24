@@ -1,0 +1,1 @@
+const e={key:"v-3566c684",path:"/specs/03-variables/01-non-string-variables.html",title:"Non-String Variables",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"specs/03-variables/01-non-string-variables.md"};export{e as data};

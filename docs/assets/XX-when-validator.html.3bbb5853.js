@@ -1,0 +1,1 @@
+const e={key:"v-18f9ee74",path:"/proposals/XX-when-validator.html",title:"When Validator",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"proposals/XX-when-validator.md"};export{e as data};

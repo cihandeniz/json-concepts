@@ -1,0 +1,1 @@
+const a={key:"v-46b83acf",path:"/roadmap/01-synchronous-load.html",title:"Synchronous Load",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"roadmap/01-synchronous-load.md"};export{a as data};

@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"json concepts",lang:"en-US",frontmatter:{title:"json concepts",home:!0,footer:"MIT License - Copyright (C) 2021, Cihan Deniz"},excerpt:"",headers:[{level:2,title:"Contribution",slug:"contribution",children:[]}],filePathRelative:"README.md"};export{e as data};

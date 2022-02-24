@@ -1,0 +1,1 @@
+const e={key:"v-5706e8bf",path:"/proposals/XX-variable-default-value.html",title:"Default Value",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"proposals/XX-variable-default-value.md"};export{e as data};

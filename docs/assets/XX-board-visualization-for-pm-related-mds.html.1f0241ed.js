@@ -1,0 +1,1 @@
+const a={key:"v-624b2f96",path:"/proposals/XX-board-visualization-for-pm-related-mds.html",title:"Board Visualization For PM Related MDs",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"proposals/XX-board-visualization-for-pm-related-mds.md"};export{a as data};

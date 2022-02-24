@@ -1,0 +1,1 @@
+const e={key:"v-1ba15137",path:"/specs/01-basics/01-literals.html",title:"Literals",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"specs/01-basics/01-literals.md"};export{e as data};

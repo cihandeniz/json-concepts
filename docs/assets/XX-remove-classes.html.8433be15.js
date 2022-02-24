@@ -1,0 +1,1 @@
+const e={key:"v-257a3c54",path:"/proposals/XX-remove-classes.html",title:"Remove Classes",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"proposals/XX-remove-classes.md"};export{e as data};

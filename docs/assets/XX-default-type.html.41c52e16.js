@@ -1,0 +1,1 @@
+const e={key:"v-b3f892e6",path:"/proposals/XX-default-type.html",title:"Default Types",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"proposals/XX-default-type.md"};export{e as data};

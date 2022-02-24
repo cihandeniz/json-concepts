@@ -1,0 +1,1 @@
+const e={key:"v-0bf614e0",path:"/specs/08-references/02-merging-references.html",title:"Merge References",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"specs/08-references/02-merging-references.md"};export{e as data};

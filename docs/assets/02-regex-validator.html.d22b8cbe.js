@@ -1,0 +1,1 @@
+const e={key:"v-7f7a91df",path:"/specs/04-custom-types/02-regex-validator.html",title:"Regex Validator",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Short-Hand Usage",slug:"short-hand-usage",children:[]}],filePathRelative:"specs/04-custom-types/02-regex-validator.md"};export{e as data};

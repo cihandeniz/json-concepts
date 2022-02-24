@@ -1,0 +1,1 @@
+const e={key:"v-07307c0b",path:"/use-cases/",title:"Introduction",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Anatomy of a Use Case",slug:"anatomy-of-a-use-case",children:[]}],filePathRelative:"use-cases/README.md"};export{e as data};

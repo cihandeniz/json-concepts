@@ -1,0 +1,1 @@
+const e={key:"v-da234498",path:"/specs/06-literals/04-nested-literals.html",title:"Nested Literals",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"specs/06-literals/04-nested-literals.md"};export{e as data};

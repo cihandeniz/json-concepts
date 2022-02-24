@@ -1,0 +1,1 @@
+const e={key:"v-1146baf2",path:"/proposals/XX-self-validate-challenge.html",title:"Self Validate Challenge",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"proposals/XX-self-validate-challenge.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-8f62a58e",path:"/proposals/XX-openapi-challenge.html",title:"OpenAPI Challenge",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"proposals/XX-openapi-challenge.md"};export{e as data};

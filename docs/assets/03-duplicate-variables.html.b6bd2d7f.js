@@ -1,0 +1,1 @@
+const e={key:"v-6cb1b488",path:"/specs/03-variables/03-duplicate-variables.html",title:"Duplicate Variables",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"specs/03-variables/03-duplicate-variables.md"};export{e as data};

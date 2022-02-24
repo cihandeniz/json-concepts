@@ -1,0 +1,1 @@
+const e={key:"v-3f2e2211",path:"/specs/07-concepts/03-explicit-concepts.html",title:"Explicit Concepts",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Resolving Literal Conflicts",slug:"resolving-literal-conflicts",children:[]}],filePathRelative:"specs/07-concepts/03-explicit-concepts.md"};export{e as data};

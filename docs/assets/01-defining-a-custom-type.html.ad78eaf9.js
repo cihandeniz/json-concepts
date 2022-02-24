@@ -1,0 +1,1 @@
+const e={key:"v-f5af91de",path:"/specs/04-custom-types/01-defining-a-custom-type.html",title:"Defining a Custom Type",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Specifying a Base Type",slug:"specifying-a-base-type",children:[]}],filePathRelative:"specs/04-custom-types/01-defining-a-custom-type.md"};export{e as data};

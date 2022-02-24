@@ -1,0 +1,1 @@
+const e={key:"v-eade1910",path:"/specs/07-concepts/01-inline-concepts.html",title:"Inline Concepts",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"specs/07-concepts/01-inline-concepts.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-ecd50dd6",path:"/specs/06-literals/01-concepts-under-a-literal.html",title:"Concepts Under A Literal",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"specs/06-literals/01-concepts-under-a-literal.md"};export{e as data};

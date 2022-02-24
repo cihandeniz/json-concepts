@@ -1,0 +1,1 @@
+const t={key:"v-8c2216e0",path:"/proposals/XX-list-validator.html",title:"List Validator",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"proposals/XX-list-validator.md"};export{t as data};

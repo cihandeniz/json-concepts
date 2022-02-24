@@ -1,0 +1,1 @@
+const a={key:"v-23625139",path:"/roadmap/03-revise-transformation.html",title:"Revise Transformation",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"roadmap/03-revise-transformation.md"};export{a as data};

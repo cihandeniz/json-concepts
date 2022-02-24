@@ -1,0 +1,1 @@
+const e={key:"v-195408ee",path:"/proposals/XX-files-metadata.html",title:"Files Metadata",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"proposals/XX-files-metadata.md"};export{e as data};

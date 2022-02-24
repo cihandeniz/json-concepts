@@ -1,0 +1,1 @@
+const e={key:"v-de1cba96",path:"/specs/08-references/01-defining-a-reference.html",title:"Defining A Reference",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"References Can Only Be Defined at the Root",slug:"references-can-only-be-defined-at-the-root",children:[]}],filePathRelative:"specs/08-references/01-defining-a-reference.md"};export{e as data};

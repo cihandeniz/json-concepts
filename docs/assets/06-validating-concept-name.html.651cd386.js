@@ -1,0 +1,1 @@
+const t={key:"v-78472f46",path:"/specs/04-custom-types/06-validating-concept-name.html",title:"Validating Concept Name",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"specs/04-custom-types/06-validating-concept-name.md"};export{t as data};

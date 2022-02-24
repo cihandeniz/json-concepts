@@ -1,0 +1,1 @@
+const t={key:"v-a1de8a76",path:"/roadmap/00-github-actions.html",title:"GitHub Actions",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"roadmap/00-github-actions.md"};export{t as data};

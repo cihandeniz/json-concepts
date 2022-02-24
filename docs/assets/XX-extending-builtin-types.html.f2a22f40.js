@@ -1,0 +1,6 @@
+import{d as n}from"./app.484750ef.js";import{_ as s}from"./plugin-vue_export-helper.21dcd24c.js";const e={},a=n(`<h1 id="extending-built-in-types" tabindex="-1"><a class="header-anchor" href="#extending-built-in-types" aria-hidden="true">#</a> Extending Built-In Types</h1><blockquote><p>TBD</p></blockquote><div class="language-json ext-json line-numbers-mode"><pre class="language-json"><code><span class="token punctuation">{</span>
+    <span class="token property">&quot;@types&quot;</span><span class="token operator">:</span> <span class="token punctuation">{</span>
+        <span class="token property">&quot;#include&quot;</span><span class="token operator">:</span> <span class="token string">&quot;extended-types.concepts.json&quot;</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br></div></div><ul><li>URL</li><li>e-mail</li><li>path</li><li>cron expression</li></ul>`,4);function t(p,o){return a}var r=s(e,[["render",t]]);export{r as default};

@@ -1,0 +1,1 @@
+const e={key:"v-74007bb2",path:"/specs/05-arrays/02-array-item-type.html",title:"Array Item Type",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Custom Types",slug:"custom-types",children:[]}],filePathRelative:"specs/05-arrays/02-array-item-type.md"};export{e as data};

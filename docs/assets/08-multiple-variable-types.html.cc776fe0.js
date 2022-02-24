@@ -1,0 +1,1 @@
+const e={key:"v-35f6e16d",path:"/roadmap/08-multiple-variable-types.html",title:"Multiple Definitions Types",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"roadmap/08-multiple-variable-types.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-3e48dc56",path:"/proposals/XX-extending-builtin-types.html",title:"Extending Built-In Types",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"proposals/XX-extending-builtin-types.md"};export{e as data};

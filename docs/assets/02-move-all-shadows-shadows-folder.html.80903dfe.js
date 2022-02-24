@@ -1,0 +1,1 @@
+const e={key:"v-5436700e",path:"/roadmap/02-move-all-shadows-shadows-folder.html",title:"Move All Shadow Specs To Shadows Folder",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Concepts Shadow",slug:"concepts-shadow",children:[]}],filePathRelative:"roadmap/02-move-all-shadows-shadows-folder.md"};export{e as data};

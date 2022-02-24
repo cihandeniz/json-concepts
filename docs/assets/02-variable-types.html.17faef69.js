@@ -1,0 +1,1 @@
+const e={key:"v-2e1d0878",path:"/specs/03-variables/02-variable-types.html",title:"Variable Types",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Available Variable Types",slug:"available-variable-types",children:[]}],filePathRelative:"specs/03-variables/02-variable-types.md"};export{e as data};

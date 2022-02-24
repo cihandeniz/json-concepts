@@ -1,0 +1,1 @@
+const e={key:"v-56d386fe",path:"/specs/06-literals/07-escaping-special-characters.html",title:"Escaping Special Characters",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"specs/06-literals/07-escaping-special-characters.md"};export{e as data};

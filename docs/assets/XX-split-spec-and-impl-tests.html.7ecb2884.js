@@ -1,0 +1,1 @@
+const t={key:"v-0e919476",path:"/proposals/XX-split-spec-and-impl-tests.html",title:"Split Spec and Impl Tests",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"proposals/XX-split-spec-and-impl-tests.md"};export{t as data};

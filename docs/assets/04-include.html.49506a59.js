@@ -1,0 +1,1 @@
+const e={key:"v-6f2b4268",path:"/specs/08-references/04-include.html",title:"Include",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Processing Order",slug:"processing-order",children:[]},{level:2,title:"Including a Remote File",slug:"including-a-remote-file",children:[]}],filePathRelative:"specs/08-references/04-include.md"};export{e as data};

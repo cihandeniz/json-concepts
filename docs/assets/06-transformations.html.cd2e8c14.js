@@ -1,0 +1,1 @@
+const t={key:"v-3a7de7e8",path:"/specs/01-basics/06-transformations.html",title:"Transformations",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"specs/01-basics/06-transformations.md"};export{t as data};

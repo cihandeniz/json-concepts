@@ -1,0 +1,1 @@
+const a={key:"v-e3d3cf18",path:"/proposals/XX-to-and-from-json-schema.html",title:"To and From JSON Schema",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"proposals/XX-to-and-from-json-schema.md"};export{a as data};

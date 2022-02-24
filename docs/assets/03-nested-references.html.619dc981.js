@@ -1,0 +1,1 @@
+const e={key:"v-10ba77da",path:"/specs/08-references/03-nested-references.html",title:"Nested References",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Recursion",slug:"recursion",children:[]},{level:2,title:"Indirect Recursion",slug:"indirect-recursion",children:[]}],filePathRelative:"specs/08-references/03-nested-references.md"};export{e as data};

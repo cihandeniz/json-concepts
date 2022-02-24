@@ -1,0 +1,1 @@
+const e={key:"v-a2107fc0",path:"/specs/01-basics/05-shadows.html",title:"Shadows",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Schema Shadow",slug:"schema-shadow",children:[]}],filePathRelative:"specs/01-basics/05-shadows.md"};export{e as data};

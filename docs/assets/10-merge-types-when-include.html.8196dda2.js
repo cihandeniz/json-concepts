@@ -1,0 +1,1 @@
+const e={key:"v-6d24bb8e",path:"/roadmap/10-merge-types-when-include.html",title:"Merge @types When Include",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"roadmap/10-merge-types-when-include.md"};export{e as data};

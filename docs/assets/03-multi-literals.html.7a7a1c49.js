@@ -1,0 +1,1 @@
+const e={key:"v-7e03f5ab",path:"/specs/06-literals/03-multi-literals.html",title:"Multi Literals",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Multiple Variables in a Concept",slug:"multiple-variables-in-a-concept",children:[]}],filePathRelative:"specs/06-literals/03-multi-literals.md"};export{e as data};

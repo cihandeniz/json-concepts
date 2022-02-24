@@ -1,0 +1,1 @@
+const a={key:"v-244d7e2e",path:"/specs/04-custom-types/04-min-and-max-validators.html",title:"Min and Max Validators",lang:"en-US",frontmatter:{},excerpt:"",headers:[],filePathRelative:"specs/04-custom-types/04-min-and-max-validators.md"};export{a as data};
